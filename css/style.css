@@ -1,0 +1,67 @@
+body {
+	background-image: url(../img/logo.jpg);
+	background-repeat: no-repeat;
+    background-position: center top;
+    height: 1280px;
+
+	
+}
+
+
+.wrapper{
+	
+	font-size: 50px;
+	font-weight: 50px;
+	font-family: 'Amatic SC', cursive;	
+}
+
+
+.title{
+
+	color: #ffffff;
+	font-size: 100px;
+	padding-right: 40px;
+	 text-shadow: -1px 0 black, 0 3px black, 3px 0 black, 0 -1px black;
+}
+
+.paragraph {
+	font-size: 30px;
+	color: #FF00FF;
+	
+
+
+}
+
+/* unvisited link */
+a:link {
+    color: #000;
+}
+
+/* visited link */
+a:visited {
+    color: #000;
+}
+
+/* mouse over link */
+a:hover {
+    color: #FF00FF;
+}
+
+/* selected link */
+a:active {
+    color: #0000FF;
+}
+
+.jumbotron {
+	color: #FF00FF;
+	height: 100%;
+	width: 100%;
+
+
+}
+
+
+
+
+
+
